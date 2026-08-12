@@ -9,7 +9,8 @@ The retarget engine is standalone and does not require Rokoko Studio Live. Its h
 
 ## Install
 
-Install the `mocap_retarget_addon` folder or a ZIP containing that folder from Blender's `Edit > Preferences > Add-ons > Install`.
+Install `blender-addon-by-pandabeo04.zip` from Blender's `Edit > Preferences > Add-ons > Install`.
+The Python package inside the ZIP remains `mocap_retarget_addon` because Blender requires a valid Python module name.
 Enable **Blender Add-On by Pandabeo04**, then open the 3D View sidebar with `N` and select the `CUSTOM ADD-ON — PANDABEO04` tab.
 
 ## Workflow
